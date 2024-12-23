@@ -1,0 +1,185 @@
+.logo2{
+    margin-left: 5px;
+}
+.sekcja1{
+    text-align: center;
+}
+.kim{
+    margin: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 5px;
+}
+.kim2{
+    font-size: 40px;
+    opacity: 80%;
+}
+.kim3{
+    font-size: 13px;
+    color: black;
+    opacity: 50%;
+    margin-left: 15px;
+}
+.safety{
+    margin-left: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color:darkslategrey;
+}
+body{
+    background-color: lightgray;
+}
+a:hover{
+    color: black;
+    text-decoration: none;
+    opacity: 50%;
+}
+nav{
+    padding: 20px;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+nav,a{
+    color:black;
+    text-align: right;
+    margin-right: 20;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.top{
+    margin-top: 50px;
+    margin-left: 100px;
+    font-size: 50px;
+    font-weight:900;
+    font-family:Calibri;
+}
+.down{
+    margin-top: 50px;
+    margin-left: 120px;
+    font-size: 12px;
+    color: aliceblue;
+    font-weight: 1;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.color1{
+    font-weight:900;
+    color: antiquewhite;
+}
+.color2{
+    font-weight:900;
+    color:burlywood;
+}
+.img{
+    margin-left: 50px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.img2{
+    margin-left: 50px;
+    border-radius: 20px;
+    border: 1px solid black;
+    
+}
+.div{
+    margin-left: 400px;
+}
+.safe{
+    color: aliceblue;
+}
+p{
+    margin-left: 20px;
+    font-family:cursive;
+    font-size: 14px;
+}
+h2{
+    color:gainsboro;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h4{
+    margin-left: 20px;
+    font-size: 12px;
+}
+h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(181, 180, 180);
+    font-size: 40px;
+}
+h5{
+    font-size: 15px;
+    text-align: right;
+    margin-right: 50px;
+}
+.logo{
+    margin-left: 50px;
+    border-radius: 20px;
+}
+.news{
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(71, 71, 71);
+    text-align: center;
+}
+.straż{
+    font-size: 17px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.date{
+    color: rgb(49, 47, 47);
+    font-size: 11px;
+}
+.kontakt2{
+    text-align: center;
+    font-size: 40px;
+    color:black;
+    opacity: 80%;
+}
+.kontakt{
+    margin-left: 20px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.galeria{
+    text-align: center;
+}
+.body{
+    background-color: gray;
+    border-radius: 80px;
+    margin-top: 80px;
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-bottom: 30px;
+
+    box-shadow: 10px 10px 200px black;
+    padding: 70px;
+
+}
+h4{
+    font-family: arial;
+    font-size: 14px;
+    color: black;
+    opacity: 60%;
+    letter-spacing: 2px;
+}
+textarea{
+    padding: 6px 12px 6px 12px;
+    border: 1px solid black;
+    color: gray
+}
+input:hover{
+    background-color: #665544;
+}
+input:active{
+    background-color: black;
+    color: gray;
+}
+input{
+    color: white;
+    background-color: black;
+    margin-right: 4px;
+    margin-top: 5px;
+}
+footer{
+    letter-spacing: 1px;
+}
+.social{
+    text-align: center;
+}
